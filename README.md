@@ -1,2 +1,2 @@
 # pinglat
-Local network ping latency monitor.
+Network ping latency tool.
