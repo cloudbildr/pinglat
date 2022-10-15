@@ -4,7 +4,7 @@ import re
 import datetime
 
 """
-PingLat by @ThumbSec
+PingLat by @CloudBildr
 
 Loop through a list of IPs and labels then record the actual ping results to a CSV. Parse the data file to get whatever
 statistics you need. Example usage: Ping key LAN devices like Wireless Access Points and then out to the world to help
