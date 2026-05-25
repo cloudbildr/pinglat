@@ -6,7 +6,7 @@ import os
 import sys
 
 """
-PingLat by @CloudBildr
+PingLat by George Boone (@thinkinfra)
 
 Loop through a list of IPs/hostnames and record ping results. Supports
 loading hosts from a file or entering them interactively. Results can be
